@@ -22,30 +22,3 @@ Our job is to come up with suitable material design for the application: the mat
 7. Performance Comparison & Recommendation: Provide a comparison matrix using thedata collected in Section 5 and Section 6 against the engineering specification you cameup in section 1-2-3. Highlight the benefit and the drawback for each selection and note your recommendation accordingly.
 <br />
 
-<h2>Project's snapshots:</h2>
-
-<p align="center">
-Design for bottle cap and snap-fit lid <br/>
-<img src="https://i.imgur.com/VNldmvQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Bottle cap is fully assembled  <br/>
-<img src="https://i.imgur.com/QVid9sM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Section view of the full assembled bottle cap <br/>
-<img src="https://i.imgur.com/qcN4KEm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Detail drawing of the bottle cap  <br/>
-<img src="https://i.imgur.com/t3pvvUu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Detail drawing of the snap-fit lid  <br/>
-<img src="https://i.imgur.com/45GOc52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Nonlinear FEA stress analysis in SolidWorks  <br/>
-<img src="https://i.imgur.com/BWAkE0v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
