@@ -5,7 +5,6 @@
 <h2>Description</h2>
 In this project, I collaborated a team of 5 students to design, build, and test their snap-fit bottle cap prototype. I resopnsible for designing CAD model prototype, calculated and performed structural analysis to find the force required to assemble the snap-fit. I assist in testing, document simulation results, and writing report. The snap-fit bottle cap will be attached to an existing 1.5L carbonated drink bottle, replacing its regular bottle cap.
 <br />
-
 Our job is to come up with suitable material design for the application: the material for the submersiblethat can work up to 2000 meters under water. The following requirements should be addressed:
 <br />
 1. Perform an analysis of the set of environmental data such that you can refine theenvironmental challenges into a set of quantifiable data. You may want to do someresearch on the actual conditions on the USA.
